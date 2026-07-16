@@ -77,13 +77,28 @@
 
 ### 💼 Experience
 
-| Role | Company |
-|---|---|
-| Software Engineer Intern | ClimbBuddy |
-| Software Engineer Intern | Topo AI |
-| Software Engineer Intern | HTX |
-| Data Engineer Intern | HTX |
-| Data Analyst Intern | Enterprise Singapore |
+<table>
+  <tr>
+    <td width="140" valign="top"><b>🧗 ClimbBuddy</b><br/><sub>Software Engineer Intern</sub><br/><sub><i>Month Year – Month Year</i></sub></td>
+    <td>Building out the ClimbBuddy web platform end-to-end — React/TypeScript frontend on a C# backend, covering event management, competition scoring, and leaderboards.</td>
+  </tr>
+  <tr>
+    <td width="140" valign="top"><b>🧠 Topo AI</b><br/><sub>Software Engineer Intern</sub><br/><sub><i>Month Year – Month Year</i></sub></td>
+    <td>Contributed to product features and engineering workflows as part of the core engineering team.</td>
+  </tr>
+  <tr>
+    <td width="140" valign="top"><b>🛡️ HTX</b><br/><sub>Software Engineer Intern</sub><br/><sub><i>Month Year – Month Year</i></sub></td>
+    <td>Developed software solutions for the Home Team Science and Technology Agency.</td>
+  </tr>
+  <tr>
+    <td width="140" valign="top"><b>🛡️ HTX</b><br/><sub>Data Engineer Intern</sub><br/><sub><i>Month Year – Month Year</i></sub></td>
+    <td>Built and maintained data pipelines to support downstream analytics and modeling work.</td>
+  </tr>
+  <tr>
+    <td width="140" valign="top"><b>🇸🇬 Enterprise Singapore</b><br/><sub>Data Analyst Intern</sub><br/><sub><i>Month Year – Month Year</i></sub></td>
+    <td>Analyzed data to support enterprise development initiatives and reporting.</td>
+  </tr>
+</table>
 
 ---
 
