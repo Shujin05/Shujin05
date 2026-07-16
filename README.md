@@ -19,8 +19,6 @@
 
 - 🎓 Data Science & Computer Science undergrad @ NUS
 - 💻 Passionate about frontend engineering, UI/UX, and building products end‑to‑end
-- 🌱 Currently building **ClimbBuddy** — a climbing event & competition management platform
-- 📫 Reach me at **limshujin2005@gmail.com**
 
 <br/>
 
@@ -86,7 +84,6 @@
     <td width="160" valign="top">
       <b>🧗 ClimbBuddy</b><br/>
       <sub>Software Engineer Intern</sub><br/>
-      <sub><i>Month Year – Present</i></sub>
     </td>
     <td>Building the ClimbBuddy web platform end-to-end — React/TypeScript frontend on a C# backend, covering event management, competition scoring, and leaderboards.</td>
   </tr>
