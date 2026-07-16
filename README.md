@@ -8,8 +8,7 @@
 
 <p>
   <a href="mailto:limshujin2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0D9488&style=for-the-badge" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/lim-shu-jin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 </div>
@@ -69,22 +68,12 @@
       <img src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🧗 ClimbBuddy</h3>
-      <p>Climbing event & competition management platform — event scheduling, scoring, and leaderboards.</p>
-      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🛒 QuicKart</h3>
       <p>Voucher-based minimart website with cart, checkout, and voucher redemption flows.</p>
       <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -105,7 +94,6 @@
     <td width="160" valign="top">
       <b>🧠 Topo AI</b><br/>
       <sub>Software Engineer Intern</sub><br/>
-      <sub><i>Month Year – Month Year</i></sub>
     </td>
     <td>Contributed to product features and engineering workflows as part of the core engineering team.</td>
   </tr>
@@ -113,7 +101,6 @@
     <td width="160" valign="top">
       <b>🛡️ HTX</b><br/>
       <sub>Software Engineer Intern</sub><br/>
-      <sub><i>Month Year – Month Year</i></sub>
     </td>
     <td>Developed software solutions for the Home Team Science and Technology Agency.</td>
   </tr>
@@ -121,7 +108,6 @@
     <td width="160" valign="top">
       <b>🛡️ HTX</b><br/>
       <sub>Data Engineer Intern</sub><br/>
-      <sub><i>Month Year – Month Year</i></sub>
     </td>
     <td>Built and maintained data pipelines to support downstream analytics and modeling work.</td>
   </tr>
@@ -129,7 +115,6 @@
     <td width="160" valign="top">
       <b>🇸🇬 Enterprise Singapore</b><br/>
       <sub>Data Analyst Intern</sub><br/>
-      <sub><i>Month Year – Month Year</i></sub>
     </td>
     <td>Analyzed data to support enterprise development initiatives and reporting.</td>
   </tr>
@@ -140,12 +125,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shujin05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shujin05&theme=tokyonight&hide_border=true" alt="Streak stats" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shujin05&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%"/>
 </div>
 
 <br/>
