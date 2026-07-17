@@ -63,12 +63,14 @@
       <img src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+      <br/>
     </td>
     <td width="50%" valign="top">
       <h3>🐋 Manta Ray ID Platform</h3>
       <p>AI-assisted identification pipeline — video frame extraction, image enhancement, and automated classification.</p>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Computer_Vision-333?style=flat-square"/>
+      <br/>
     </td>
   </tr>
   <tr>
@@ -78,6 +80,7 @@
       <img src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br/>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 QuicKart</h3>
@@ -85,6 +88,7 @@
       <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br/>
     </td>
   </tr>
 </table>
